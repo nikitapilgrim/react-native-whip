@@ -22,10 +22,6 @@
     "Jonas Birmé <jonas.birme@eyevinn.se> (Eyevinn Technology AB)",
     "Benjamin Wallberg <benjamin.wallberg@eyevinn.se> (Eyevinn Technology AB)"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Eyevinn/whip.git"
-  },
   "license": "Apache-2.0",
   "devDependencies": {
     "chai": "^4.3.6",
@@ -47,6 +43,7 @@
   },
   "dependencies": {
     "events": "^3.3.0",
+    "react-native-webrtc": "^111.0.3",
     "sdp-transform": "^2.14.1"
   }
 }

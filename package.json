@@ -38,5 +38,8 @@
     "conventional-changelog-conventionalcommits": "^4.6.3",
     "lerna": "^5.5.1",
     "prettier": "^2.5.1"
+  },
+  "volta": {
+    "node": "18.17.0"
   }
 }
